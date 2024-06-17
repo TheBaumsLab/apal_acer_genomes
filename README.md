@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12021087.svg)]([https://data.caltech.edu/badge/latestdoi/110025475](https://doi.org/10.5281/zenodo.12021087))
+
 # Genome assemblies, genetic maps, and annotations of Acropora palmata and Acropora cervicornis
 
 ![alt text](https://github.com/mistergroot/apal_acer_genomes/blob/main/Apalm_Acer_photo.jpg?raw=true)
