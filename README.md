@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/mistergroot/apal_acer_genomes/blob/main/Apalm_Acer_photo.jpg?raw=true)
 
-Here, we make available the code and genomic resources described in [Locatelli et al., 2023](https://doi.org/10.1101/2023.12.22.573044). These files describe the genomic resources for Florida _Acropora palmata_ sampled at Horseshoe Reef (genet HS1, STAGdb ID HG0004) and _Acropora cervicornis_ sampled from Grassy Key (genet M5, STAGdb ID HG0005).
+Here, we make available the code and genomic resources described in [Locatelli et al., 2023](https://doi.org/10.1101/2023.12.22.573044). These files describe the genomic resources for Florida _Acropora palmata_ sampled at Horseshoe Reef (genet HS1, STAGdb ID HG0004) and _Acropora cervicornis_ sampled from Grassy Key (genet M5, STAGdb ID HG0005). All tissue samples were generously provided by the Coral Restoration Foundation™ (CRF).
 
 In `jupyter_notebooks/`, we provide code for _Acropora cervicornis_ (prefix `Acervicornis` in all files) genome assembly, gene prediction, and functional annotation in FunAnnotate. We additionally provide code for _Acropora palmata_ (prefix `Apalmata` in all files) and _Acropora cervicornis_ linkage map generation using LepWrap. Further, we provide code for some figure generation, whole genome alignments and dotplots, and phylogenetically significant gene family expansion analyses (CAFE5).
 
